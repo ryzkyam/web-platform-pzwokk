@@ -1,0 +1,27 @@
+h1{
+  background-color: aquamarine;
+}
+
+#username{
+  border-radius: 16px
+}
+
+#password{
+  border-radius: 16px;
+}
+
+
+
+
+
+
+
+
+
+button{
+  border-radius: 20px;
+  width: auto;
+  height: 28px;
+  background-color: blueviolet;
+  color: white;
+}
